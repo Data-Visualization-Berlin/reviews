@@ -10,7 +10,7 @@ http://www.zeit.de/wirtschaft/2014-04/arzt-facharzt-praxis-verteilung-berlin-ham
 
 http://www.repubblica.it/economia/2014/04/05/news/la_mappa_dell_evasione-82817488/?ref=HREC1-2
 
-http://dieswaytoofast.blogspot.de/2013/12/traffic-waves-visualization.html
+http://blogs.kqed.org/lowdown/2013/11/12/traffic-waves
 
 http://invision-web.net/ticket-status/
 
