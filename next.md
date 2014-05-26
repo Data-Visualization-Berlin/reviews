@@ -14,6 +14,8 @@ https://github.com/nrchtct/edgemaps
 
 https://github.com/nrchtct/monadicexploration
 
+http://infovis.fh-potsdam.de/
+
 ### the maze series
 
 best first random http://bl.ocks.org/mbostock/11189414
