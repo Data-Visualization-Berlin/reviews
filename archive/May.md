@@ -27,3 +27,9 @@ Prim's generating algorithm http://bl.ocks.org/mbostock/11159599
 maze hover http://bl.ocks.org/mbostock/6ba3a15c9f08742b3a80
 
 maze tree http://bl.ocks.org/mbostock/061b3929ba0f3964d335
+
+### JavaScript graph drawing libraries
+
+http://sigmajs.org/
+
+https://github.com/anvaka/VivaGraphJS  and the successor https://github.com/anvaka/ngraph
