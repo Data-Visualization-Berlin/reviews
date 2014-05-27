@@ -6,7 +6,7 @@ meetup. When we meet we review and comment these links together
 # Where?
 
 The links for the next meetup are in [next][next], while the old
-ones are in the [archive](archive.md)
+ones are in the [archive](archive)
 
 # Can i add mine?
 
