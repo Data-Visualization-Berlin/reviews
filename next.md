@@ -53,6 +53,4 @@ http://david.li/flow/
 
 http://www.faz.net/aktuell/politik/inland/interaktiv-so-viel-verdienen-unsere-abgeordneten-nebenher-13148777.html
 
-http://scrambledeggsontoast.github.io/2014/09/18/dabbling-computational-linguistics/
-
 http://fivethirtyeight.com/features/christian-rudder-dataclysm-okcupid/
